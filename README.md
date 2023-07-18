@@ -1,6 +1,9 @@
 # 💫 About Me:
 🙋 Hi I'm Rex from Nepal.<br>🔥 I'm currently working on new type of cracking system.<br>✨ Contact me? Fb : alpharex0<br>🙌 I’m currently learning  JavaScript<br>⚡ Fun fact : I'm just normal person😂
 
+---
+[![](https://visitcount.itsvg.in/api?id=alpharexx&icon=7&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alpharex0) 
@@ -20,8 +23,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alpharexx&limit=5&theme=gitdimmed&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=alpharexx&icon=7&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
