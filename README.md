@@ -1,5 +1,5 @@
-# 💫 About Me:
-🙋 Hi I'm Rex from Nepal.<br>🔥 I'm currently working on new type of cracking system.<br>✨ Contact me? Fb : alpharex0<br>🙌 I’m currently learning  JavaScript<br>⚡ Fun fact : I'm just normal person😂
+# INTRODUCING MYSELF
+HI I'M REX FROM NEPAL.<br> I'M CURRENTLY WORKING ON NEW TYPE OF CRACKING SYSTEM.<br> CONTACT ME? FB : alpharex0<br> FUN FACT : CRACKING IS NOT CRIME IT'S A WAR BETWEEN SYSTEM
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alpharexx&icon=7&color=1)](https://visitcount.itsvg.in)
